@@ -107,7 +107,7 @@ this is a test value
 \begin{listingignore}
 \begin{verbatim}
 >>> import sys
->>> l = sys.stdout.write('this is a test')
+>>> sys.stdout.write('this is a test')
 this is a test>>>
 \end{verbatim}
 \end{listingignore}
@@ -117,14 +117,11 @@ Notice where the prompt ($>>>$) reappears?  It's not an error, that it's at the 
 \begin{listingignore}
 \begin{verbatim}
 >>> import sys
->>> l = sys.stdout.write('this is a test\n')
+>>> sys.stdout.write('this is a test\n')
 this is a test
 >>>
 \end{verbatim}
 \end{listingignore}
-
-\noindent
-(Note that \code{stdout.write} returns the number of characters written--try \code{print(l)} to see the result).
 
 \noindent
 {\textbackslash}n is the \emph{escape} character\index{escape characters} for a newline (what you get when you hit the enter key).  An escape character is a special character that you use in strings when you can't type it directly. For example, if you want to create a string with a newline in the middle, but try to use the enter key, you'll get an error:
