@@ -1,0 +1,18 @@
+I've reviewed a diff between the last python2.7 version of SWFK 
+and the latest greatest version, and these are my proposed tweaks.
+
+Front matter:
+ change version string to 0.7.7-python2.7
+
+Preface:
+  remove it, it's all about "this book is only compatible with python 3..."
+
+Chapter 1:
+  remove reference to preface which will be deleted
+
+Chapter 9:
+  python2 needs 'import Tkinter' instead of 'import tkinter'
+
+Appendix C: 
+  sys.stdout.write() does not return number of characters written in python2;
+  take out the new little note mentioning it 

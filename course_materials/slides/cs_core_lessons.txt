@@ -1,0 +1,91 @@
+ACM CS standards
+
+http://csta.acm.org/Curriculum/sub/K12Standards.html
+
+Generic outline using 4 groups of core area topics:
+
+1) a - What is a Computer, a Bit of History
+   b - Computer Usage and Terminology, How Computers Think
+   d - Operating Systems & Hardware, Programming Languages
+
+2) a - Encoding letters with numbers
+   b - ASCII and Unicode with binary, hex, decimal
+   c - Elementary Computer Graphics
+
+3) a - Problem Solving, Algorithms
+   b - Designing Solutions, Pseudo Code, Flowcharts
+
+4) a - Intro to Programming
+   b - Algorithms & Computational Thinking
+   c - Programming Robotics
+
+30 minutes each, intro with some exercises
+
+30 minutes each hands-on pygame/other
+
+
+Using SWFK (previous open source version of Python for Kids) for intro
+and YoungCoder's handout, with extra hands-on examples of games.
+
+New outline of 4 core areas based on SWFK:
+
+1) a - What is a Computer, Programming Languages
+   b - Editors, Shells, and Programs
+   c - First Program, Twice
+
+Demo: pygameHelloWorld that renders "Hello World"
+(this section should be quick, hoping we can save time here)
+
+2) a - Math and Order of Operations
+   b - Strings and Numbers
+   c - Lists and Objects
+   d - a note about language keywords
+   d - Instructor-led exercises:  list of lists, wizard list (time dependent)
+   e - Sec. 2, Exercises 1 & 3 (lists and strings)
+
+Demo:
+a) pygameHelloShapes that renders "Hello Shapes" and draws some shapes
+(maybe save a little more time here too, or add another demo)
+
+3) a - Turtles Can Draw (basic computer graphics)
+   b - Direction and Movement
+   C - Sec. 3.1, Exercise 1 & 2
+   D - Sec. 5.3, Exercise 1 (maybe)
+
+Demo:  chimp demo might be optional here, depending on time for exercises
+
+4) a - Making Decisions, Asking a Question
+   b - Logic, Conditions, and Relational Operators
+   c - Let's Do It Again!
+
+Check time and either skip to end demos (do chimp if not done yet, dodger games)
+or do section 5 first, then final demos (section 5 Turtle Graphics can be optional
+as desired).  Can also use turtle code as lead-in demos for games.
+
+5) a - More Turtle Graphics
+   b - Color and Fills
+   c - Sec. 8.4, Exercise 1 & 2
+
+(if 5 skipped, insert some extra shape demos here)
+
+Hands-on demos
+
+1. pygameHelloWorld that renders "Hello World"
+
+2. pygameHelloShapes that renders "Hello Shapes" and draws some shapes
+
+3. dodger game, simple arcade thing where you move around without touching 
+   the stuff falling
+
+4. dodger-with-cheats game,  variant of dodger game that has "cheat" modes 
+   where you can slow the falling stuff or make it fall "up"
+
+5. The chimp game example is derived from the line-by-line tutorial that 
+comes with pygame. It is based on a `popular' web banner. Note there are 
+comments here, but for the full explanation, follow along in the tutorial.
+
+http://www.pygame.org/docs/ref/examples.html#pygame.examples.chimp.main
+
+chimp tutorial: 
+http://www.pygame.org/docs/tut/chimp/ChimpLineByLine.html
+
