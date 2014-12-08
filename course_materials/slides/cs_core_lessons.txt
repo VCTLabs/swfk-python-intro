@@ -13,11 +13,12 @@ Generic outline using 4 groups of core area topics:
    c - Elementary Computer Graphics
 
 3) a - Problem Solving, Algorithms
-   b - Designing Solutions, Pseudo Code, Flowcharts
+   b - Designing Solutions
+   c - Pseudo Code, Flowcharts
 
 4) a - Intro to Programming
    b - Algorithms & Computational Thinking
-   c - Programming Robotics
+   c - Programming Robotics, Web Applications
 
 30 minutes each, intro with some exercises
 
@@ -27,7 +28,7 @@ Generic outline using 4 groups of core area topics:
 Using SWFK (previous open source version of Python for Kids) for intro
 and YoungCoder's handout, with extra hands-on examples of games.
 
-New outline of 4 core areas based on SWFK:
+New outline of 4 sections based on SWFK:
 
 1) a - What is a Computer, Programming Languages
    b - Editors, Shells, and Programs
