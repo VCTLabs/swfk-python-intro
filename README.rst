@@ -4,19 +4,20 @@ Snake Wrangling for Kids: python 2.7 edition
 Originally cloned from https://code.google.com/p/swfk/ repository maintained 
 by the book's author, Jason R Briggs.
 
-This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 New Zealand License.
-To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/nz
+This work (the book itself) is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0
 
 Note: 
 
-Slides are original works and released under Creative Commons Attribution-Noncommercial-Share Alike 3.0 New Zealand License.
+Slides are original works and are also released under Creative Commons Attribution-Noncommercial-Share Alike 3.0 License.
 
-Handout modified from the Young Coder's tutorial released under MIT License:
+The handout was modified from the Young Coder's tutorial released under MIT License:
 https://github.com/mechanicalgirl/young-coders-tutorial/blob/master/LICENSE
 
-Rationale:
+Rationale
+---------
 
-My colleagues and I at VCT Labs have volunteered put on an intro-to-programming
+My colleagues and I at VCT Labs have volunteered to put on an intro-to-programming
 event for some local high schools in honor of CS education week. Our lead
 instructor, Steve Arnold, chose SWFK as the best free resource on which to base
 the slides and as a reference to be sent home with the kids, but we quickly ran
